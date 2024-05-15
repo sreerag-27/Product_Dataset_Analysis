@@ -744,4 +744,4 @@ order by  count(product_id) desc)
 select * from cust_info where total_products_bought > 10 ;
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------
-# Project completed  on 5th may 2024
+# The End
