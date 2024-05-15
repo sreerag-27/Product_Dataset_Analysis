@@ -1,4 +1,4 @@
-# Started on 2 may 2024 
+# Product Dataset Analysis Project
 -- --------------------------------------------------------------------------------------------------------------------------------------------------
 create database product_dataset_analysis;
 use product_dataset_analysis;
