@@ -6,7 +6,6 @@ use product_dataset_analysis;
 show global variables like 'local_infile';
 set global local_infile='on';
 
-select * from customer;
 -- -----------------------------------------------------------------------------------------------------------------------------------------------
 # Method 1 To Insert data
 
